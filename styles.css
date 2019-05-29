@@ -1,0 +1,34 @@
+<style>body {
+    background-color: ivory;
+}
+
+p {
+    font-family: Georgia;
+    text-align: center;
+}
+
+.section-header {
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.center-align {
+    text-align: center;
+}
+
+h4 {
+    font-style: italic;
+    text-align: center;
+}
+
+table {
+    table-layout: auto;
+}
+
+.gallery {
+    align-content: center;
+    width: 100%;
+    height: auto;
+}
+
+</style>
