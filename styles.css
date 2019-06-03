@@ -10,6 +10,7 @@ p {
 .section-header {
     text-decoration-line: underline;
     text-align: center;
+    padding-top: 25px;
 }
 
 .center-align {
@@ -23,12 +24,24 @@ h4 {
 
 table {
     table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .gallery {
     align-content: center;
+    max-width: 75%;
     width: 100%;
     height: auto;
+}
+
+#goblinattack {
+    background-blend-mode: color-burn;
+    background-color: green;
+    padding-left: 25%;
+    padding-right: 25%
 }
 
 </style>
