@@ -14,7 +14,11 @@ p {
 }
 
 .center-align {
-    text-align: center;
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: large;
 }
 
 h4 {
@@ -27,6 +31,7 @@ h4 {
     max-width: 75%;
     width: 100%;
     height: auto;
+    background-color: beige
 }
 
 #goblinlist {
